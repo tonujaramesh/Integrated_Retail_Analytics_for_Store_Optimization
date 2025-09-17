@@ -63,3 +63,6 @@ Modeling: Regression Models 📈
 🔹 ML models achieve good predictive accuracy, helping in demand forecasting 📈.
 
 🔹 This analysis enables inventory optimization, strategic planning, and revenue growth in retail.
+
+
+✨ Feel free to star ⭐ this repo if you find it useful!
