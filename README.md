@@ -1,4 +1,4 @@
-🛒 **#Integrated Retail Analytics for Store Optimization**
+🛒 **Integrated Retail Analytics for Store Optimization**
 
 📌**Project Overview**
 
