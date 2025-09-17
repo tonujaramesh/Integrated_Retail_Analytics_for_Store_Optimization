@@ -1,4 +1,7 @@
-🛒 **Integrated Retail Analytics for Store Optimization**
+🛒 **#Integrated Retail Analytics for Store Optimization**
+
+📌**Project Overview**
+
 This project applies Exploratory Data Analysis and Machine Learning to retail sales data from multiple stores. By integrating store attributes, promotions, and external factors (temperature, fuel price, CPI, unemployment), it predicts weekly sales, uncovers trends, and provides insights for store optimization.
 
 📂 **Dataset Description**
@@ -26,11 +29,17 @@ Columns: Store, Date, Temperature, Fuel_Price, MarkDown1-5, CPI, Unemployment, I
 📊 **Visualizations & Insights**
 
 ✅ Histogram – Weekly sales distribution → Most sales are in lower range; few weeks have extreme sales spikes.
+
 ✅ Box & Bar Plots – Sales by store type → Larger stores (Type A) dominate sales.
+
 ✅ Line Plot – Sales trend → Seasonal peaks around holidays 🎉.
+
 ✅ Heatmap – Correlation between features → Weak economic links, markdowns impact sales modestly.
+
 ✅ Scatter Plots – Sales vs temperature/fuel price → Weak to moderate effects.
+
 ✅ Holiday vs Non-Holiday – Holiday weeks nearly double sales.
+
 ✅ Rolling Average – Long-term seasonal trends become visible.
 
 🛠 **Tech Stack**
@@ -48,6 +57,9 @@ Modeling: Regression Models 📈
 🏁 **Conclusion**
 
 🔹 Holidays, store size, and promotions are major drivers of sales.
+
 🔹 Economic factors (fuel, CPI, unemployment) have smaller but noticeable impacts.
+
 🔹 ML models achieve good predictive accuracy, helping in demand forecasting 📈.
+
 🔹 This analysis enables inventory optimization, strategic planning, and revenue growth in retail.
