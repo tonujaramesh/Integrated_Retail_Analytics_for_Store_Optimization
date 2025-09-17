@@ -1,6 +1,6 @@
-🛒 **Integrated Retail Analytics for Store Optimization**
+# Integrated Retail Analytics for Store Optimization
 
-📌**Project Overview**
+📌**Project Overview**  
 
 This project applies Exploratory Data Analysis and Machine Learning to retail sales data from multiple stores. By integrating store attributes, promotions, and external factors (temperature, fuel price, CPI, unemployment), it predicts weekly sales, uncovers trends, and provides insights for store optimization.
 
